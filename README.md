@@ -4,7 +4,7 @@
 
 <!--[![MasterHead](https://i.imgur.com/mtVyPBC.gif)]()-->
 
-
+[![An image of @nipunrathore's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/nipunrathore)](https://holopin.io/@nipunrathore)
 <h1 align="center">Hi there 👋, I'm Nipun Singh Rathore</h1>
 <h3 align="center">Aspiring Software Developer</h3>
 <!-- <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/ZVik7pBtu9dNS/giphy.gif?cid=ecf05e47i8nuxdivdhkugpcn3a6nr0ylcid87aip6xlkswig&ep=v1_gifs_search&rid=giphy.gif&ct=g"> -->
